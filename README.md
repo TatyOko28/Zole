@@ -16,4 +16,4 @@ We tested the sending of messages by the visitor to the company in case he was i
 we have again tested on a multitude of agents on this platform, who manages to distinguish themselves by making more sales, who follows it with what rate, and who is not progressing too well with what score;
 
 in our database we have created two types of user: visitors and sellers:
-sellers are those who have the right to publish their content and visitors will come to visit and if they are interested, they can contact the owner to make an appointment. In both cases of users, the Admin has all the rights to delete a user whether it is a seller or an already authenticated visitor.
+sellers are those who have the right to publish their content and visitors will come to visit and if they are interested, they can contact the owner to make an appointment. In both cases of users, the Admin has all the rights to delete a user whether it is a seller or an already authenticated visitor
